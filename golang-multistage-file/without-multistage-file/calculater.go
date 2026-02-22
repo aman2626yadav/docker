@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Hi Abhishek.Veeramalla, I am a calculator app ....")
+	fmt.Println("making calculater to used and demo how docker works with golang")
 
 	for {
 		// Read input from the user
